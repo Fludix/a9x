@@ -21,3 +21,18 @@ Fludix#8937
 
 Alpha9x is a secret Project.
 Project AlphaNineX
+
+<html>
+    <head>
+        <title>Crack Anthem</title>
+    </head>
+
+    <body>
+
+        <video controls>
+            <source src="=CrackAnthem=.mp4" type="video/mp4">
+        </video>
+
+    </body>
+
+</html>
